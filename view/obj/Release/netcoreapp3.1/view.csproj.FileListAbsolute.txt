@@ -1,0 +1,5 @@
+C:\Users\valve\OneDrive\Área de Trabalho\interface\interface2\CopyTrader\view\obj\Release\netcoreapp3.1\view.csproj.AssemblyReference.cache
+C:\Users\valve\OneDrive\Área de Trabalho\interface\interface2\CopyTrader\view\obj\Release\netcoreapp3.1\view.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valve\OneDrive\Área de Trabalho\interface\interface2\CopyTrader\view\obj\Release\netcoreapp3.1\view.AssemblyInfoInputs.cache
+C:\Users\valve\OneDrive\Área de Trabalho\interface\interface2\CopyTrader\view\obj\Release\netcoreapp3.1\view.AssemblyInfo.cs
+C:\Users\valve\OneDrive\Área de Trabalho\interface\interface2\CopyTrader\view\obj\Release\netcoreapp3.1\view.csproj.CoreCompileInputs.cache

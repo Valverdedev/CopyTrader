@@ -1,0 +1,2 @@
+Out:-C:\Games 
+In:-C:\Users\valve\AppData\Roaming\MetaQuotes\Terminal\Common\Files

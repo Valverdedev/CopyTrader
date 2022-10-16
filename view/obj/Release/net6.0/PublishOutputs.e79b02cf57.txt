@@ -1,0 +1,7 @@
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\view.exe
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\view.dll
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\view.deps.json
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\view.runtimeconfig.json
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\view.pdb
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\CopyTrader.dll
+C:\Users\valve\OneDrive\Área de Trabalho\Copy\CopyTrader.pdb
